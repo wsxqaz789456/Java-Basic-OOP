@@ -1,8 +1,8 @@
-class Mypoint{
+class MyPoint{ //조상이 없을 경우 컴파일러에 의해 자동으로 Object를 상속받음
     int x;
     int y;
 }
-class Circle extends Mypoint{ //상속
+class Circle extends MyPoint{ //상속
     int r;
 }
 public class _07_Inheritance {

@@ -4,21 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7090956-2185-48b3-a73c-cecf991599e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Basic-OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Object_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_Return.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_Inheritance.java" afterDir="false" />
+    <list default="true" id="d7090956-2185-48b3-a73c-cecf991599e5" name="Changes" comment="JAVA basic OOP">
+      <change afterPath="$PROJECT_DIR$/src/_08_Overiding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Modifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_instanceOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_07_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_07_Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +41,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +54,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677222388897</updated>
     </task>
+    <task id="LOCAL-00001" summary="JAVA basic OOP">
+      <created>1677230311406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677230311406</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JAVA basic OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAVA basic OOP" />
   </component>
 </project>
