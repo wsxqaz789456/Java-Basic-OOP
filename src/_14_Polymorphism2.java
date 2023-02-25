@@ -35,7 +35,7 @@ class Buyer {
     }
 
 }
-public class _13_Polymorphism2 {
+public class _14_Polymorphism2 {
     public static void main(String[] args){
         Buyer b = new Buyer();
 
